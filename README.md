@@ -27,7 +27,7 @@
    <summary><strong> EndPoints </strong></summary><br />
 
   <p> A Api está documentada através do SwaggerUI. </p>
-  <p> A aplicação está configurada para que ao ser iniciada já vá diretamente para a página do Swagger < /p>
+  <p> A aplicação está configurada para que ao ser iniciada já vá diretamente para a página do Swagger </p>
 </details>
 
 <details>

@@ -13,6 +13,7 @@
 
    <p> Rode o serviço de banco com o comando `docker-compose up -d`.</p>
    <p> A partir daqui você já pode rodar a aplicação com 'dotnet run' e fazer as chamadas através do Swagger para ver as respostas</p>
+</details>
 
 <details>
    <summary><strong> Rodando Testes </strong></summary><br />
